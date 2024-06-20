@@ -27,3 +27,4 @@ O código faz uso extensivo do pacote javax.swing para criar a interface gráfic
 O estoque de produtos é carregado a partir de um arquivo de dados.
 As interações do usuário são tratadas por meio de ActionListeners associados a botões e outros componentes de interface.
 
+https://github.com/PedroAzevedoBarbosa/Trabalho-final-de-LP-POO/blob/main/Trabalho-final-de-LP-POO/tela%20login.png
